@@ -1,0 +1,4 @@
+ms-azuretools.vscode-docker@1.12.1
+MS-CEINTL.vscode-language-pack-ru@1.55.2
+ms-python.python@2021.4.765268190
+ms-toolsai.jupyter@2021.5.745244803
